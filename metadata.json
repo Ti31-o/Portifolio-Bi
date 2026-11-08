@@ -1,0 +1,6 @@
+{
+  "name": "Praticando JavaScript - Exercício 1: Divisão e Validação",
+  "description": "Ambiente interativo de aprendizado para o Exercício 1 de JavaScript: divisão de números com validação de entradas, divisão por zero, depuração passo a passo e simulador de código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
